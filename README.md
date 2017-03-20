@@ -1,2 +1,2 @@
 # Stream-and-Read-Video-EMGU
-Senior project
+Streaming and Reading Video File with C#
