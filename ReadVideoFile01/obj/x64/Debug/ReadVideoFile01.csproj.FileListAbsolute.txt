@@ -30,3 +30,7 @@ E:\_WORKSPACE\C#\ReadVideoFile01\ReadVideoFile01\obj\x64\Debug\ReadVideoFile01.c
 E:\_WORKSPACE\C#\ReadVideoFile01\ReadVideoFile01\obj\x64\Debug\ReadVideoFile01.exe
 E:\_WORKSPACE\C#\ReadVideoFile01\ReadVideoFile01\obj\x64\Debug\ReadVideoFile01.pdb
 E:\_WORKSPACE\C#\ReadVideoFile01\ReadVideoFile01\obj\x64\Debug\ReadVideoFile01.csprojResolveAssemblyReference.cache
+E:\_WORKSPACE\C#\ReadVideoFile01\ReadVideoFile01\bin\x64\Debug\cvextern.dll
+E:\_WORKSPACE\C#\ReadVideoFile01\ReadVideoFile01\bin\x64\Debug\msvcp120.dll
+E:\_WORKSPACE\C#\ReadVideoFile01\ReadVideoFile01\bin\x64\Debug\msvcr120.dll
+E:\_WORKSPACE\C#\ReadVideoFile01\ReadVideoFile01\bin\x64\Debug\opencv_ffmpeg310_64.dll
